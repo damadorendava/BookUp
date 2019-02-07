@@ -9,20 +9,11 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9114FA93-9A8A-41B2-8067-7F9FAAB8E756",
+  "do_objectID": "96424E02-A9AC-4F23-AC8C-35ACC8997FAE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0D903C38-F6DE-4EDD-ABFC-245DF5EF945B",
+    "do_objectID": "F7C900AF-A08B-4BA3-B205-1DC5CF4B55CA",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -32,19 +23,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "75F143A4-6CDF-4BD4-9561-76C918A0A934",
+    "do_objectID": "3048F0B5-21ED-4D4C-AA99-1CFC08EA2EFE",
     "height": 667,
     "width": 375,
-    "x": 27817,
-    "y": 13638
+    "x": 29197,
+    "y": 15097
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "010B0DEA-BF0D-4BF0-9C9D-7170BE89C43C",
+    "do_objectID": "DFE60AAE-DA0E-454E-BC31-C66468CC124A",
     "guides": [
     ]
   },
@@ -60,62 +51,62 @@
   "layers": [
     {
       "class": "group",
-      "id": "45327970-B412-4208-AC6C-C96DACBA7B53"
-    },
-    {
-      "class": "rectangle",
-      "id": "FF1262FA-5C3E-4029-B07F-33AD44E9F614"
-    },
-    {
-      "class": "group",
-      "id": "A924599B-7B72-439E-B3E2-7034F4E70A4C"
+      "id": "F4C02D9B-2D22-4E5F-AF14-9CEA6CAFFD75"
     },
     {
       "class": "text",
-      "id": "D5F2773D-47B8-40E4-8FEF-9471F33BE3CD"
+      "id": "8F500B2C-C4F5-447B-A0BA-2A51B8D963B2"
     },
     {
       "class": "rectangle",
-      "id": "4D466740-3339-4D39-A3C8-004714334833"
-    },
-    {
-      "class": "text",
-      "id": "6E7C9B12-9184-410C-B886-064393840692"
-    },
-    {
-      "class": "rectangle",
-      "id": "3F79B2F4-E333-488C-89A8-8C073D54F531"
-    },
-    {
-      "class": "text",
-      "id": "8C108157-6B74-441D-8AAD-0BC4E46BD2BE"
-    },
-    {
-      "class": "text",
-      "id": "83E77BBD-928A-4A1E-8BDC-D4D5CB8B6C50"
-    },
-    {
-      "class": "rectangle",
-      "id": "36ECBFF9-288C-49BD-99FB-2E68B7969085"
+      "id": "9F63823A-1642-4C14-8D3D-6CFF86987892"
     },
     {
       "class": "bitmap",
-      "id": "3B044D0B-0358-4E57-A788-1BEAC9B08A91"
+      "id": "33AEF32A-D397-4BF0-B491-A095A1CE5556"
     },
     {
       "class": "text",
-      "id": "82BA956D-0F49-467A-A555-40EF0D52172E"
+      "id": "BBC1376A-D3E9-4D26-9236-E4E46D4E18D3"
     },
     {
       "class": "text",
-      "id": "42CA240D-3568-4D2A-B3CB-266EB236FECF"
+      "id": "91EE9A29-BE33-4D88-BE0D-EB911FB3D2FE"
     },
     {
       "class": "bitmap",
-      "id": "C24EA92E-90D5-4657-A36A-631F2CE6A24D"
+      "id": "5AEF1D72-AC91-4BA9-9FD0-CA3F736382E2"
+    },
+    {
+      "class": "bitmap",
+      "id": "8A0A02C4-5F0A-4CE2-A9B7-8A75E5A9EDA6"
+    },
+    {
+      "class": "text",
+      "id": "219938E2-2F3F-4C6B-8B41-E4FAEA829664"
+    },
+    {
+      "class": "text",
+      "id": "D0FEE3EA-8F6E-4171-8D14-747BB8F88B96"
+    },
+    {
+      "class": "rectangle",
+      "id": "94C38F3C-8FCD-440F-AD6C-21568DE2DF6F"
+    },
+    {
+      "class": "text",
+      "id": "E450EC71-EEE1-402B-B434-489375025585"
+    },
+    {
+      "class": "text",
+      "id": "253937FF-A21E-4143-BB87-C89D518C6D4A"
+    },
+    {
+      "class": "text",
+      "id": "66D1F74D-9371-4DAD-AFB1-9171A425E5E7"
     }
   ],
-  "name": "4",
+  "name": "10 (3)",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -131,7 +122,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "5B874F12-E5DC-48DC-A32F-8930523632AE",
+    "do_objectID": "9057FEBE-AD9B-440D-B59B-F0D18CC72AA4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -140,7 +131,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "ACF283FB-7F72-4D98-9C8F-6206F2F590D0",
+    "do_objectID": "8854A209-0C56-44C6-AA9C-082C6BC78E9B",
     "guides": [
     ]
   }

@@ -9,10 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "96424E02-A9AC-4F23-AC8C-35ACC8997FAE",
+  "do_objectID": "C9259758-05BE-4F7B-8549-2D359C6967CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F7C900AF-A08B-4BA3-B205-1DC5CF4B55CA",
+    "do_objectID": "5FDFFC2C-5CD2-4E3D-99B2-EC0EC4DD3FCB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3048F0B5-21ED-4D4C-AA99-1CFC08EA2EFE",
+    "do_objectID": "866012E5-DAEB-4605-B149-4CFD2E155174",
     "height": 667,
     "width": 375,
-    "x": 29197,
+    "x": 30063,
     "y": 15097
   },
   "hasBackgroundColor": true,
@@ -35,7 +35,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "DFE60AAE-DA0E-454E-BC31-C66468CC124A",
+    "do_objectID": "59E70B57-2757-4468-B73E-808D38AA8FB0",
     "guides": [
     ]
   },
@@ -51,63 +51,55 @@
   "layers": [
     {
       "class": "group",
-      "id": "F4C02D9B-2D22-4E5F-AF14-9CEA6CAFFD75"
-    },
-    {
-      "class": "text",
-      "id": "8F500B2C-C4F5-447B-A0BA-2A51B8D963B2"
+      "id": "DB2ED51B-6EAC-47A4-8DF8-24EBD76B3204"
     },
     {
       "class": "rectangle",
-      "id": "9F63823A-1642-4C14-8D3D-6CFF86987892"
-    },
-    {
-      "class": "bitmap",
-      "id": "33AEF32A-D397-4BF0-B491-A095A1CE5556"
+      "id": "2FBA5390-8C9A-4BF9-A602-DEF6A2AEE103"
     },
     {
       "class": "text",
-      "id": "BBC1376A-D3E9-4D26-9236-E4E46D4E18D3"
+      "id": "FF9F9065-A894-40C6-9128-9D7476505909"
     },
     {
       "class": "text",
-      "id": "91EE9A29-BE33-4D88-BE0D-EB911FB3D2FE"
-    },
-    {
-      "class": "bitmap",
-      "id": "5AEF1D72-AC91-4BA9-9FD0-CA3F736382E2"
-    },
-    {
-      "class": "bitmap",
-      "id": "8A0A02C4-5F0A-4CE2-A9B7-8A75E5A9EDA6"
-    },
-    {
-      "class": "text",
-      "id": "219938E2-2F3F-4C6B-8B41-E4FAEA829664"
-    },
-    {
-      "class": "text",
-      "id": "D0FEE3EA-8F6E-4171-8D14-747BB8F88B96"
+      "id": "83FEF5FD-D4F4-40FB-A681-6EAC2D13B380"
     },
     {
       "class": "rectangle",
-      "id": "94C38F3C-8FCD-440F-AD6C-21568DE2DF6F"
+      "id": "B2BDC988-1336-4658-B729-805B64A85490"
+    },
+    {
+      "class": "bitmap",
+      "id": "12EBD419-289B-4084-9B5C-FE69436F697A"
     },
     {
       "class": "text",
-      "id": "E450EC71-EEE1-402B-B434-489375025585"
+      "id": "FF7D2ED2-45FE-4B14-B611-B2F8F36C6638"
     },
     {
       "class": "text",
-      "id": "253937FF-A21E-4143-BB87-C89D518C6D4A"
+      "id": "BA79AC29-F79E-4D24-ACEB-DE32A645114B"
+    },
+    {
+      "class": "bitmap",
+      "id": "B1D3C432-DAA4-4453-8939-AF6CB1E1EF75"
+    },
+    {
+      "class": "rectangle",
+      "id": "C69541C4-F476-4426-82C3-3B832524CDAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA515EC8-160B-46EE-B1F5-734430C4AB39"
     },
     {
       "class": "text",
-      "id": "66D1F74D-9371-4DAD-AFB1-9171A425E5E7"
+      "id": "B7859486-1C2F-4AE7-A634-20FE68B729C1"
     }
   ],
-  "name": "10 (3)",
-  "nameIsFixed": true,
+  "name": "iPhone 8 Copy 3",
+  "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
@@ -122,7 +114,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "9057FEBE-AD9B-440D-B59B-F0D18CC72AA4",
+    "do_objectID": "D73D28EB-67D8-479D-A053-3D5128F323BA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -131,7 +123,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8854A209-0C56-44C6-AA9C-082C6BC78E9B",
+    "do_objectID": "0080314C-77A7-4EB3-935E-235104E6280E",
     "guides": [
     ]
   }

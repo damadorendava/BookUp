@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "27A591C4-B8E6-4DD6-919B-BCFDAB87185B",
+  "do_objectID": "3F79B2F4-E333-488C-89A8-8C073D54F531",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "49582A1C-C1E3-4BF0-BA2A-D2743027C6C4",
+    "do_objectID": "C0ABF39B-A1C4-4174-B374-343010C97237",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FE1BC052-D8CB-42F5-9846-C94D3EADDC36",
+    "do_objectID": "727DF818-622C-4384-8563-16A616F047D4",
     "height": 35,
     "width": 91,
-    "x": 136,
-    "y": 330
+    "x": 139,
+    "y": 335
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "26132BE5-0E66-430A-A5E1-65B527D84DE6",
+    "do_objectID": "F49CFF88-71FB-4045-8AA4-C74C5A084D12",
     "endMarkerType": 0,
     "fills": [
       {
@@ -142,7 +142,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "2EF16374-EBCF-411E-9221-A6993B04C36E",
+      "targetArtboardID": "38F9BF95-E714-4525-B36D-2770D0EFCBB2",
       "transition": 0
     }
   }
