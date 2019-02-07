@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB2ED51B-6EAC-47A4-8DF8-24EBD76B3204",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1802D8B-5704-4C4B-B3AE-87CB5981720F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9535349A-BDAF-45A5-AC34-3E87984A21C3",
+    "height": 19,
+    "width": 29,
+    "x": 39,
+    "y": 41
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "88C7A5FF-3E37-4F5B-97D4-7348D7AADCE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "700C0A00-57E6-4430-9C98-B17CF35558E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FA66F91-BFC0-4D8F-B6D6-3CB6ED34C357"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D047FC7-B65D-4B11-88EC-E0E3A213564E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "D081B9FD-61CC-4B2F-A9C6-4198A540A8BB",
+      "transition": 0
+    }
+  }
+}
